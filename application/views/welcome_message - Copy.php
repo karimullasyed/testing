@@ -68,19 +68,8 @@
 
 <div id="container">
 
-	<h1>Welcome to CodeIgniter!</h1>
-	<h2>Welcome to CodeIgniter!</h2>
-	<h3>Welcome to CodeIgniter</h3>
-	<h4>Welcome to CodeIgniter!</h4>
-	<h5>Welcome to CodeIgniter!</h5>
-	<h6>Welcome to CodeIgniter!</h6>
-	<h6>Welcome to Master File</h6>
-	<h6>Welcome to Karim File</h6>
-	<h6>Welcome to syed file</h6>
-	<h6>Syed Last Modify</h6>
-	<h6>Welcome to Master_2</h6>
-	<h6>Syed</h6>
-	<h1>Welcome To CodeIgniter</h1>
+	<h1>Welcome Notion</h1>
+	
 	<div id="body">
 		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
 
