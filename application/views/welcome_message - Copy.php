@@ -74,6 +74,7 @@
 	<h5>Welcome to CodeIgniter!</h5>
 	<h6>Welcome to CodeIgniter!</h6>
 	<h6>Welcome to Master File</h6>
+	<h6>Welcome to Karim File</h6>
 	<div id="body">
 		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
 
