@@ -75,7 +75,7 @@
 	<h6>Welcome to CodeIgniter!</h6>
 	<h6>Welcome to Master File</h6>
 	<h6>Welcome to syed file</h6>
-	
+	<h6>Syed Last Modify</h6>
 	<div id="body">
 		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
 
