@@ -69,6 +69,7 @@
 <div id="container">
 	<h1>HI</h1>
 	<h1>HELLOW</h1>
+	<h1>H R U?</h1>
 	<div id="body">
 		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
 
