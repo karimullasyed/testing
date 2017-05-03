@@ -78,6 +78,7 @@
 	<h6>Welcome to syed file</h6>
 	<h6>Welcome to Master_2</h6>
 	<h6>Karim</h6>
+	<h6>Master</h6>
 	<div id="body">
 		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
 
