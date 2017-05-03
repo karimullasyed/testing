@@ -67,9 +67,15 @@
 <body>
 
 <div id="container">
+<<<<<<< HEAD
 
 	<h1>Welcome Notion</h1>
 	
+=======
+	<h1>Welcome To CodeIgniter</h1>
+	<h1>Welcome to new branch</h1>
+	<h1>Master branch</h1>
+>>>>>>> fcdf625978f74deec9175fd8b4bf2ef53f70c50f
 	<div id="body">
 		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
 
