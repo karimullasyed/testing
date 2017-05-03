@@ -69,8 +69,12 @@
 <div id="container">
 	<h1>Welcome to CodeIgniter!</h1>
 	<h2>Welcome to CodeIgniter!</h2>
+<<<<<<< HEAD
 	<h3>Welcome to CodeIgniter</h3>
 
+=======
+	<h4>Welcome to CodeIgniter!</h4>
+>>>>>>> syed
 	<div id="body">
 		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
 
