@@ -69,8 +69,8 @@
 <div id="container">
 	<h1>HI</h1>
 	<h1>HELLOW</h1>
-	<h1>H R U?</h1
-	<h1>You?</h1>
+	<h1>H R U?</h1>
+	<h1>Are</h1>
 	
 
 	<div id="body">
